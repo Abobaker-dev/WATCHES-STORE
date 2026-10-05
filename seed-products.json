@@ -1,0 +1,331 @@
+[
+ {
+  "name": "AURELIS Nocturne",
+  "price": 4850,
+  "category": "Automatic",
+  "collection": "Nocturne",
+  "description": "A black ceramic timepiece on a integrated metal bracelet, powered by the in-house automatic movement and finished in our Geneva atelier.",
+  "specs": [
+   [
+    "Movement",
+    "Automatic, 42 h reserve"
+   ],
+   [
+    "Case",
+    "41 mm black ceramic"
+   ],
+   [
+    "Crystal",
+    "Sapphire"
+   ],
+   [
+    "Water resistance",
+    "100 m"
+   ],
+   [
+    "Strap",
+    "Metal bracelet"
+   ]
+  ],
+  "stock": 10,
+  "look": {
+   "m": "black",
+   "s": "b",
+   "d": [
+    "#17181a",
+    "#030303"
+   ],
+   "t": "#d9a07f",
+   "h": "#d9a07f",
+   "n": "i",
+   "b": "#111"
+  }
+ },
+ {
+  "name": "AURELIS Chronograph",
+  "price": 6200,
+  "category": "Chronograph",
+  "collection": "Chronograph",
+  "description": "A 18k rose gold timepiece on a hand-stitched leather strap, powered by the in-house automatic movement and finished in our Geneva atelier.",
+  "specs": [
+   [
+    "Movement",
+    "Automatic, 42 h reserve"
+   ],
+   [
+    "Case",
+    "41 mm 18k rose gold"
+   ],
+   [
+    "Crystal",
+    "Sapphire"
+   ],
+   [
+    "Water resistance",
+    "100 m"
+   ],
+   [
+    "Strap",
+    "Leather"
+   ]
+  ],
+  "stock": 10,
+  "look": {
+   "m": "rose",
+   "s": "l",
+   "sc": "#5a2e22",
+   "d": [
+    "#1b1b1d",
+    "#050506"
+   ],
+   "c": 1,
+   "n": "r"
+  }
+ },
+ {
+  "name": "AURELIS Classic",
+  "price": 3950,
+  "category": "Automatic",
+  "collection": "Classic",
+  "description": "A stainless steel timepiece on a integrated metal bracelet, powered by the in-house automatic movement and finished in our Geneva atelier.",
+  "specs": [
+   [
+    "Movement",
+    "Automatic, 42 h reserve"
+   ],
+   [
+    "Case",
+    "41 mm stainless steel"
+   ],
+   [
+    "Crystal",
+    "Sapphire"
+   ],
+   [
+    "Water resistance",
+    "100 m"
+   ],
+   [
+    "Strap",
+    "Metal bracelet"
+   ]
+  ],
+  "stock": 10,
+  "look": {
+   "m": "steel",
+   "s": "b",
+   "d": [
+    "#eceff2",
+    "#b9c0c6"
+   ],
+   "t": "#2a2d30",
+   "h": "#2a2d30",
+   "n": "i"
+  }
+ },
+ {
+  "name": "AURELIS Signature",
+  "price": 7400,
+  "category": "Dress",
+  "collection": "Signature",
+  "description": "A 18k rose gold timepiece on a hand-stitched leather strap, powered by the in-house automatic movement and finished in our Geneva atelier.",
+  "specs": [
+   [
+    "Movement",
+    "Automatic, 42 h reserve"
+   ],
+   [
+    "Case",
+    "41 mm 18k rose gold"
+   ],
+   [
+    "Crystal",
+    "Sapphire"
+   ],
+   [
+    "Water resistance",
+    "100 m"
+   ],
+   [
+    "Strap",
+    "Leather"
+   ]
+  ],
+  "stock": 10,
+  "look": {
+   "m": "rose",
+   "s": "l",
+   "sc": "#3b2118",
+   "d": [
+    "#2a2523",
+    "#0e0c0b"
+   ],
+   "n": "r"
+  }
+ },
+ {
+  "name": "AURELIS Obsidian",
+  "price": 5800,
+  "category": "Automatic",
+  "collection": "Nocturne",
+  "description": "A black ceramic timepiece on a hand-stitched leather strap, powered by the in-house automatic movement and finished in our Geneva atelier.",
+  "specs": [
+   [
+    "Movement",
+    "Automatic, 42 h reserve"
+   ],
+   [
+    "Case",
+    "41 mm black ceramic"
+   ],
+   [
+    "Crystal",
+    "Sapphire"
+   ],
+   [
+    "Water resistance",
+    "100 m"
+   ],
+   [
+    "Strap",
+    "Leather"
+   ]
+  ],
+  "stock": 10,
+  "look": {
+   "m": "black",
+   "s": "l",
+   "sc": "#111",
+   "d": [
+    "#202123",
+    "#050505"
+   ],
+   "t": "#e9e4dc",
+   "h": "#e9e4dc",
+   "n": "a",
+   "b": "#0b0b0c"
+  }
+ },
+ {
+  "name": "AURELIS Élégance",
+  "price": 4600,
+  "category": "Dress",
+  "collection": "Classic",
+  "description": "A 18k yellow gold timepiece on a hand-stitched leather strap, powered by the in-house automatic movement and finished in our Geneva atelier.",
+  "specs": [
+   [
+    "Movement",
+    "Automatic, 42 h reserve"
+   ],
+   [
+    "Case",
+    "41 mm 18k yellow gold"
+   ],
+   [
+    "Crystal",
+    "Sapphire"
+   ],
+   [
+    "Water resistance",
+    "100 m"
+   ],
+   [
+    "Strap",
+    "Leather"
+   ]
+  ],
+  "stock": 10,
+  "look": {
+   "m": "gold",
+   "s": "l",
+   "sc": "#7a4a2a",
+   "d": [
+    "#f1e6cc",
+    "#cdb98d"
+   ],
+   "t": "#3b2d14",
+   "h": "#2a2110",
+   "n": "r"
+  }
+ },
+ {
+  "name": "AURELIS Mariner",
+  "price": 5250,
+  "category": "Sport",
+  "collection": "Chronograph",
+  "description": "A stainless steel timepiece on a integrated metal bracelet, powered by the in-house automatic movement and finished in our Geneva atelier.",
+  "specs": [
+   [
+    "Movement",
+    "Automatic, 42 h reserve"
+   ],
+   [
+    "Case",
+    "41 mm stainless steel"
+   ],
+   [
+    "Crystal",
+    "Sapphire"
+   ],
+   [
+    "Water resistance",
+    "100 m"
+   ],
+   [
+    "Strap",
+    "Metal bracelet"
+   ]
+  ],
+  "stock": 10,
+  "look": {
+   "m": "steel",
+   "s": "b",
+   "d": [
+    "#17406f",
+    "#061427"
+   ],
+   "n": "i",
+   "b": "#0e2a4d"
+  }
+ },
+ {
+  "name": "AURELIS Imperial",
+  "price": 9800,
+  "category": "Limited",
+  "collection": "Signature",
+  "description": "A 18k rose gold timepiece on a integrated metal bracelet, powered by the in-house automatic movement and finished in our Geneva atelier.",
+  "specs": [
+   [
+    "Movement",
+    "Automatic, 42 h reserve"
+   ],
+   [
+    "Case",
+    "41 mm 18k rose gold"
+   ],
+   [
+    "Crystal",
+    "Sapphire"
+   ],
+   [
+    "Water resistance",
+    "100 m"
+   ],
+   [
+    "Strap",
+    "Metal bracelet"
+   ]
+  ],
+  "stock": 10,
+  "look": {
+   "m": "rose",
+   "s": "b",
+   "d": [
+    "#22365e",
+    "#0a1426"
+   ],
+   "c": 1,
+   "n": "i"
+  }
+ }
+]
